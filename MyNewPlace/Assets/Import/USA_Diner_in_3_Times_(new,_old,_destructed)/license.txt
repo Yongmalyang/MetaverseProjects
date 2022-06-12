@@ -1,0 +1,11 @@
+Model Information:
+* title:	USA Diner in 3 Times (new, old, destructed)
+* source:	https://sketchfab.com/3d-models/usa-diner-in-3-times-new-old-destructed-1872c78a7eab4efd9b209a54c83754b3
+* author:	Gregsterius (https://sketchfab.com/Gregsterius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "USA Diner in 3 Times (new, old, destructed)" (https://sketchfab.com/3d-models/usa-diner-in-3-times-new-old-destructed-1872c78a7eab4efd9b209a54c83754b3) by Gregsterius (https://sketchfab.com/Gregsterius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
